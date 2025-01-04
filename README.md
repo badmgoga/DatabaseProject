@@ -23,4 +23,4 @@
 •	Масштабируемость для поддержки большого количества пользователей.
 
 # 4. UML-диаграмма
-![UML](https://github.com/badmgoga/DatabaseProject/edit/main/UML.jpg)
+![UML](https://github.com/badmgoga/DatabaseProject/blob/main/UML.jpg)
